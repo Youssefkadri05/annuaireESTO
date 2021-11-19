@@ -1,0 +1,2 @@
+le mot de passe est le même pour tous les utilisateurs "12345"
+Email de l'administrateur : kadri@gmail.com "12345"
